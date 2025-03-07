@@ -1,0 +1,8 @@
+**/.vscode/rad.json
+**/.alcache/**
+**/.altemplates/**
+**/.altestrunner/**
+**/.snapshots/**
+*dep.app
+*.g.xlf
+*.app
